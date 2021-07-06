@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "interactjs": "^1.10.11",
+    "vue": "^3.0.0",
+    "vue-interactjs": "^0.1.10",
+    "vue-wave-surfer": "^1.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
