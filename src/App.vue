@@ -1,7 +1,7 @@
 <template>
   <AudioEditor
     audioTotalLengthInSeconds="10"
-    toTimeInMilliSeconds="3"
+    toTimeInMilliSeconds="2000"
     fromTimeInMilliSeconds="0"
     fadeInDurationInMilliSeconds="1000"
     fadeOutDurationInMilliSeconds="1000"
